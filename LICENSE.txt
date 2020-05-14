@@ -1,15 +1,3 @@
-# Ishiko/C++ - Project Documentation
-
-Ishiko/C++ is a set of C++ libraries.
-
-This repository contains the project documentation.
-
-## Contents
-
-- [Errors](https://github.com/Ishiko-cpp/Errors): Code to handle and report errors.
-
-## License
-
 Copyright (c) 2015-2020 Xavier Leclercq
 
 Permission is hereby granted, free of charge, to any person obtaining a
