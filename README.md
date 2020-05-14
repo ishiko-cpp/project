@@ -7,6 +7,8 @@ This repository contains the project documentation.
 ## Contents
 
 - [Errors](https://github.com/Ishiko-cpp/Errors): Code to handle and report errors.
+- [FileSystem](https://github.com/Ishiko-cpp/FileSystem): Utilities to work with the file system.
+- [TestFramework](https://github.com/Ishiko-cpp/TestFramework): A C++ test framework.
 
 ## License
 
