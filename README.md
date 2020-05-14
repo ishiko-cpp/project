@@ -8,11 +8,12 @@ This repository contains the project documentation.
 
 - [Errors](https://github.com/Ishiko-cpp/Errors): Code to handle and report errors.
 - [FileSystem](https://github.com/Ishiko-cpp/FileSystem): Utilities to work with the file system.
+- [Process](https://github.com/Ishiko-cpp/Process): Code to work with processes and environment variables.
 - [TestFramework](https://github.com/Ishiko-cpp/TestFramework): A C++ test framework.
 
 ## License
 
-Copyright (c) 2015-2020 Xavier Leclercq
+Copyright (c) 2005-2020 Xavier Leclercq
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the "Software"),
