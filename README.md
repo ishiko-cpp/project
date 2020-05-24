@@ -7,14 +7,11 @@ This repository contains the project documentation.
 ## Contents
 
 - [Errors](https://github.com/Ishiko-cpp/Errors): Code to handle and report errors.
+  [![Ishiko-cpp](https://circleci.com/gh/Ishiko-cpp/Errors.svg?style=shield)](https://circleci.com/gh/Ishiko-cpp/Errors)
 - [FileSystem](https://github.com/Ishiko-cpp/FileSystem): Utilities to work with the file system.
 - [Process](https://github.com/Ishiko-cpp/Process): Code to work with processes and environment variables.
 - [TestFramework](https://github.com/Ishiko-cpp/TestFramework): A C++ test framework.
-
-# Project Status
-
-[![Ishiko-cpp](https://circleci.com/gh/Ishiko-cpp/Errors.svg?style=shield)](https://circleci.com/gh/Ishiko-cpp/Errors)
-[![Ishiko-cpp](https://circleci.com/gh/Ishiko-cpp/TestFramework.svg?style=shield)](https://circleci.com/gh/Ishiko-cpp/TestFramework)
+  [![Ishiko-cpp](https://circleci.com/gh/Ishiko-cpp/TestFramework.svg?style=shield)](https://circleci.com/gh/Ishiko-cpp/TestFramework)
 
 # Usage
 
