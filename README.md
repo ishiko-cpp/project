@@ -6,6 +6,10 @@ This repository contains the project documentation.
 
 ## Contents
 
+- [Collections](https://github.com/Ishiko-cpp/Collections): Container classes.
+
+  [![Ishiko-cpp](https://circleci.com/gh/Ishiko-cpp/Collections.svg?style=shield)](https://circleci.com/gh/Ishiko-cpp/Collections)
+
 - [Errors](https://github.com/Ishiko-cpp/Errors): Code to handle and report errors.
 
   [![Ishiko-cpp](https://circleci.com/gh/Ishiko-cpp/Errors.svg?style=shield)](https://circleci.com/gh/Ishiko-cpp/Errors)
