@@ -11,6 +11,19 @@ This repository contains the project documentation.
 - [Process](https://github.com/Ishiko-cpp/Process): Code to work with processes and environment variables.
 - [TestFramework](https://github.com/Ishiko-cpp/TestFramework): A C++ test framework.
 
+# Project Status
+
+[![Ishiko-cpp](https://circleci.com/gh/Ishiko-cpp/Errors.svg?style=shield)](https://circleci.com/gh/Ishiko-cpp/Errors)
+[![Ishiko-cpp](https://circleci.com/gh/Ishiko-cpp/TestFramework.svg?style=shield)](https://circleci.com/gh/Ishiko-cpp/TestFramework)
+
+# Usage
+
+No documentation available as of yet.
+
+# Support
+
+None.
+
 ## License
 
 Copyright (c) 2005-2020 Xavier Leclercq
