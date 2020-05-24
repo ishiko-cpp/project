@@ -24,7 +24,16 @@ This repository contains the project documentation.
 
 # Usage
 
-No documentation available as of yet.
+## Building the projects from scratch
+
+The following build order can be used to build the projects from scratch:
+
+1. Errors (without the test code)
+1. Process (without the test code)
+1. TestFramework
+1. Errors (now with the test code)
+1. Process (now with the test code)
+1. FileSystem
 
 # Support
 
