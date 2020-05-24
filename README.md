@@ -37,6 +37,7 @@ The following build order can be used to build the projects from scratch:
 1. TestFramework
 1. Errors (now with the test code)
 1. Process (now with the test code)
+1. Collections
 1. FileSystem
 
 # Support
