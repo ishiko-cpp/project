@@ -12,7 +12,11 @@ This repository contains the project documentation.
 
 - [FileSystem](https://github.com/Ishiko-cpp/FileSystem): Utilities to work with the file system.
 
+  [![Ishiko-cpp](https://circleci.com/gh/Ishiko-cpp/FileSystem.svg?style=shield)](https://circleci.com/gh/Ishiko-cpp/FileSystem)
+
 - [Process](https://github.com/Ishiko-cpp/Process): Code to work with processes and environment variables.
+
+  [![Ishiko-cpp](https://circleci.com/gh/Ishiko-cpp/Process.svg?style=shield)](https://circleci.com/gh/Ishiko-cpp/Process)
 
 - [TestFramework](https://github.com/Ishiko-cpp/TestFramework): A C++ test framework.
 
