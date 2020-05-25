@@ -6,7 +6,7 @@ This repository contains the project documentation.
 
 ## Contents
 
-Ishiko/C++ original projects:
+### Ishiko/C++ original projects
 
 - [Collections](https://github.com/Ishiko-cpp/Collections): Container classes.
 
@@ -28,7 +28,7 @@ Ishiko/C++ original projects:
 
   [![Ishiko-cpp](https://circleci.com/gh/Ishiko-cpp/TestFramework.svg?style=shield)](https://circleci.com/gh/Ishiko-cpp/TestFramework)
 
-Third party dependencies/forks:
+### Third party dependencies/forks
 
 - [pugixml](https://github.com/Ishiko-cpp/pugixml): Light-weight, simple and fast XML parser for C++ with XPath support
 
