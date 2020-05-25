@@ -38,6 +38,7 @@ This repository contains the project documentation.
 
 The following build order can be used to build the projects from scratch:
 
+1. pugixml
 1. Errors (without the test code)
 1. Process (without the test code)
 1. TestFramework
