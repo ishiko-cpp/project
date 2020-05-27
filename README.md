@@ -24,6 +24,10 @@ This repository contains the project documentation.
 
   [![Ishiko-cpp](https://circleci.com/gh/Ishiko-cpp/Process.svg?style=shield)](https://circleci.com/gh/Ishiko-cpp/Process)
 
+- [Terminal](https://github.com/Ishiko-cpp/Terminal): Utilities to work with terminal input and output.
+
+  [![Ishiko-cpp](https://circleci.com/gh/Ishiko-cpp/Terminal.svg?style=shield)](https://circleci.com/gh/Ishiko-cpp/Terminal)
+
 - [TestFramework](https://github.com/Ishiko-cpp/TestFramework): A C++ test framework.
 
   [![Ishiko-cpp](https://circleci.com/gh/Ishiko-cpp/TestFramework.svg?style=shield)](https://circleci.com/gh/Ishiko-cpp/TestFramework)
@@ -46,6 +50,7 @@ The following build order can be used to build the projects from scratch:
 1. Process (now with the test code)
 1. Collections
 1. FileSystem
+1. Terminal
 
 # Support
 
