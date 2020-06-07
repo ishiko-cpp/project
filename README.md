@@ -39,7 +39,6 @@ This repository contains the project documentation.
 
 # Usage
 
-t
 
 ## Building the projects from scratch
 
