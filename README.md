@@ -34,6 +34,7 @@ This repository contains the project documentation.
 
 ### Third party dependencies/forks
 
+- [g3log](https://github.com/KjellKod/g3log): G3log is an asynchronous, "crash safe", logger.
 - [pugixml](https://github.com/Ishiko-cpp/pugixml): Light-weight, simple and fast XML parser for C++ with XPath support
 
 # Usage
