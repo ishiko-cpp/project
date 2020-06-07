@@ -39,6 +39,8 @@ This repository contains the project documentation.
 
 # Usage
 
+t
+
 ## Building the projects from scratch
 
 The following build order can be used to build the projects from scratch:
