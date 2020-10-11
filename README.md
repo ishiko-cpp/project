@@ -50,9 +50,11 @@ The following build order can be used to build the projects from scratch:
 
 1. pugixml
 1. Errors (without the test code)
+1. Types (without the test code)
 1. Process (without the test code)
 1. TestFramework
 1. Errors (now with the test code)
+1. Types (now with the test code)
 1. Process (now with the test code)
 1. Collections
 1. FileSystem
