@@ -32,6 +32,10 @@ This repository contains the project documentation.
 
   [![Ishiko-cpp](https://circleci.com/gh/Ishiko-cpp/TestFramework.svg?style=shield)](https://circleci.com/gh/Ishiko-cpp/TestFramework)
 
+- [Types](https://github.com/Ishiko-cpp/Types): Fundamental types.
+
+  [![Ishiko-cpp](https://circleci.com/gh/Ishiko-cpp/Types.svg?style=shield)](https://circleci.com/gh/Ishiko-cpp/Types)
+
 ### Third party dependencies/forks
 
 - [g3log](https://github.com/Ishiko-cpp/g3log): G3log is an asynchronous, "crash safe", logger.
