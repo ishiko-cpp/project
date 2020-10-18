@@ -24,6 +24,10 @@ This repository contains the project documentation.
 
   [![Ishiko-cpp](https://circleci.com/gh/Ishiko-cpp/Process.svg?style=shield)](https://circleci.com/gh/Ishiko-cpp/Process)
 
+- [Tasks](https://github.com/Ishiko-cpp/Tasks): A framework to schedule and execute tasks.
+
+  [![Ishiko-cpp](https://circleci.com/gh/Ishiko-cpp/Tasks.svg?style=shield)](https://circleci.com/gh/Ishiko-cpp/Tasks)
+
 - [Terminal](https://github.com/Ishiko-cpp/Terminal): Utilities to work with terminal input and output.
 
   [![Ishiko-cpp](https://circleci.com/gh/Ishiko-cpp/Terminal.svg?style=shield)](https://circleci.com/gh/Ishiko-cpp/Terminal)
