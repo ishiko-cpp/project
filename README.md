@@ -63,6 +63,7 @@ The following build order can be used to build the projects from scratch:
 1. Collections
 1. FileSystem
 1. Terminal
+1. Tasks
 
 # Support
 
