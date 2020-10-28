@@ -20,6 +20,10 @@ This repository contains the project documentation.
 
   [![Ishiko-cpp](https://circleci.com/gh/Ishiko-cpp/FileSystem.svg?style=shield)](https://circleci.com/gh/Ishiko-cpp/FileSystem)
 
+- [Platform](https://github.com/Ishiko-cpp/Platform): Code to handle differences between operating systems.
+
+  [![Ishiko-cpp](https://circleci.com/gh/Ishiko-cpp/Platform.svg?style=shield)](https://circleci.com/gh/Ishiko-cpp/Platform)
+
 - [Process](https://github.com/Ishiko-cpp/Process): Code to work with processes and environment variables.
 
   [![Ishiko-cpp](https://circleci.com/gh/Ishiko-cpp/Process.svg?style=shield)](https://circleci.com/gh/Ishiko-cpp/Process)
@@ -53,10 +57,12 @@ This repository contains the project documentation.
 The following build order can be used to build the projects from scratch:
 
 1. pugixml
+1. Platform (without the test code)
 1. Errors (without the test code)
 1. Types (without the test code)
 1. Process (without the test code)
 1. TestFramework
+1. Platform (now with the test code)
 1. Errors (now with the test code)
 1. Types (now with the test code)
 1. Process (now with the test code)
