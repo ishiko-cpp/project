@@ -40,6 +40,10 @@ This repository contains the project documentation.
 
   [![Ishiko-cpp](https://circleci.com/gh/Ishiko-cpp/TestFramework.svg?style=shield)](https://circleci.com/gh/Ishiko-cpp/TestFramework)
 
+- [Text](https://github.com/Ishiko-cpp/Text): Utilities to work with text data.
+
+  [![Ishiko-cpp](https://circleci.com/gh/Ishiko-cpp/Text.svg?style=shield)](https://circleci.com/gh/Ishiko-cpp/Text)
+
 - [Types](https://github.com/Ishiko-cpp/Types): Fundamental types.
 
   [![Ishiko-cpp](https://circleci.com/gh/Ishiko-cpp/Types.svg?style=shield)](https://circleci.com/gh/Ishiko-cpp/Types)
@@ -67,6 +71,7 @@ The following build order can be used to build the projects from scratch:
 1. Types (now with the test code)
 1. Process (now with the test code)
 1. Collections
+1. Text
 1. FileSystem
 1. Terminal
 1. Tasks
