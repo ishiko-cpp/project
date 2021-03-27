@@ -50,7 +50,8 @@ This repository contains the project documentation.
 
 ### Third party dependencies/forks
 
-- [g3log](https://github.com/Ishiko-cpp/g3log): G3log is an asynchronous, "crash safe", logger.
+- [Botan](https://github.com/Ishiko-cpp/botan): Botan is a C++ cryptography library.
+- [G3log](https://github.com/Ishiko-cpp/g3log): G3log is an asynchronous, "crash safe", logger.
 - [pugixml](https://github.com/Ishiko-cpp/pugixml): Light-weight, simple and fast XML parser for C++ with XPath support
 
 # Usage
@@ -60,6 +61,7 @@ This repository contains the project documentation.
 
 The following build order can be used to build the projects from scratch:
 
+1. Botan
 1. pugixml
 1. Platform (without the test code)
 1. Errors (without the test code)
@@ -83,7 +85,7 @@ None.
 
 ## License
 
-Copyright (c) 2005-2020 Xavier Leclercq
+Copyright (c) 2005-2021 Xavier Leclercq
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the "Software"),
