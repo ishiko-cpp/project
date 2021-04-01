@@ -12,6 +12,10 @@ This repository contains the project documentation.
 
   [![Ishiko-cpp](https://circleci.com/gh/Ishiko-cpp/Collections.svg?style=shield)](https://circleci.com/gh/Ishiko-cpp/Collections)
 
+- [Crypto](https://github.com/Ishiko-cpp/Crypto): Cryptographic functions.
+
+  [![Ishiko-cpp](https://circleci.com/gh/Ishiko-cpp/Crypto.svg?style=shield)](https://circleci.com/gh/Ishiko-cpp/Crypto)
+
 - [Errors](https://github.com/Ishiko-cpp/Errors): Code to handle and report errors.
 
   [![Ishiko-cpp](https://circleci.com/gh/Ishiko-cpp/Errors.svg?style=shield)](https://circleci.com/gh/Ishiko-cpp/Errors)
@@ -48,6 +52,10 @@ This repository contains the project documentation.
 
   [![Ishiko-cpp](https://circleci.com/gh/Ishiko-cpp/Types.svg?style=shield)](https://circleci.com/gh/Ishiko-cpp/Types)
 
+- [UUID](https://github.com/Ishiko-cpp/UUID): UUID types.
+
+  [![Ishiko-cpp](https://circleci.com/gh/Ishiko-cpp/UUID.svg?style=shield)](https://circleci.com/gh/Ishiko-cpp/UUID)
+
 ### Third party dependencies/forks
 
 - [Botan](https://github.com/Ishiko-cpp/botan): Botan is a C++ cryptography library.
@@ -55,7 +63,6 @@ This repository contains the project documentation.
 - [pugixml](https://github.com/Ishiko-cpp/pugixml): Light-weight, simple and fast XML parser for C++ with XPath support
 
 # Usage
-
 
 ## Building the projects from scratch
 
@@ -75,9 +82,11 @@ The following build order can be used to build the projects from scratch:
 1. Text (now with the test code)
 1. Process (now with the test code)
 1. Collections
+1. Crypto
 1. FileSystem
 1. Terminal
 1. Tasks
+1. UUID
 
 # Support
 
