@@ -52,9 +52,9 @@ This repository contains the project documentation.
 
   [![Ishiko-cpp](https://circleci.com/gh/Ishiko-cpp/Types.svg?style=shield)](https://circleci.com/gh/Ishiko-cpp/Types)
 
-- [UUID](https://github.com/Ishiko-cpp/UUID): UUID types.
+- [UUIDs](https://github.com/Ishiko-cpp/UUIDs): UUID types.
 
-  [![Ishiko-cpp](https://circleci.com/gh/Ishiko-cpp/UUID.svg?style=shield)](https://circleci.com/gh/Ishiko-cpp/UUID)
+  [![Ishiko-cpp](https://circleci.com/gh/Ishiko-cpp/UUIDs.svg?style=shield)](https://circleci.com/gh/Ishiko-cpp/UUIDs)
 
 ### Third party dependencies/forks
 
@@ -86,7 +86,7 @@ The following build order can be used to build the projects from scratch:
 1. FileSystem
 1. Terminal
 1. Tasks
-1. UUID
+1. UUIDs
 
 # Support
 
