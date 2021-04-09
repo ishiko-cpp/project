@@ -16,6 +16,10 @@ This repository contains the project documentation.
 
   [![Ishiko-cpp](https://circleci.com/gh/Ishiko-cpp/Crypto.svg?style=shield)](https://circleci.com/gh/Ishiko-cpp/Crypto)
 
+- [Diff](https://github.com/Ishiko-cpp/Diff): Diff utilities.
+
+  [![Ishiko-cpp](https://circleci.com/gh/Ishiko-cpp/Diff.svg?style=shield)](https://circleci.com/gh/Ishiko-cpp/Diff)
+
 - [Errors](https://github.com/Ishiko-cpp/Errors): Code to handle and report errors.
 
   [![Ishiko-cpp](https://circleci.com/gh/Ishiko-cpp/Errors.svg?style=shield)](https://circleci.com/gh/Ishiko-cpp/Errors)
@@ -75,12 +79,14 @@ The following build order can be used to build the projects from scratch:
 1. Types (without the test code)
 1. Text (without the test code)
 1. Process (without the test code)
+1. Diff (without the test code)
 1. TestFramework
 1. Platform (now with the test code)
 1. Errors (now with the test code)
 1. Types (now with the test code)
 1. Text (now with the test code)
 1. Process (now with the test code)
+1. Diff (now with the test code)
 1. Collections
 1. Crypto
 1. FileSystem
