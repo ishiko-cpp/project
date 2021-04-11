@@ -79,6 +79,7 @@ The following build order can be used to build the projects from scratch:
 1. Types (without the test code)
 1. Text (without the test code)
 1. Process (without the test code)
+1. FileSystem (without the test code)
 1. Diff (without the test code)
 1. TestFramework
 1. Platform (now with the test code)
@@ -86,10 +87,10 @@ The following build order can be used to build the projects from scratch:
 1. Types (now with the test code)
 1. Text (now with the test code)
 1. Process (now with the test code)
+1. FileSystem (now with the test code)
 1. Diff (now with the test code)
 1. Collections
 1. Crypto
-1. FileSystem
 1. Terminal
 1. Tasks
 1. UUIDs
