@@ -28,6 +28,10 @@ This repository contains the project documentation.
 
   [![Ishiko-cpp](https://circleci.com/gh/Ishiko-cpp/FileSystem.svg?style=shield)](https://circleci.com/gh/Ishiko-cpp/FileSystem)
 
+- [Hash](https://github.com/Ishiko-cpp/Hash): A library to calculate hashes.
+
+  [![Ishiko-cpp](https://circleci.com/gh/Ishiko-cpp/Hash.svg?style=shield)](https://circleci.com/gh/Ishiko-cpp/Hash)
+
 - [Platform](https://github.com/Ishiko-cpp/Platform): Code to handle differences between operating systems.
 
   [![Ishiko-cpp](https://circleci.com/gh/Ishiko-cpp/Platform.svg?style=shield)](https://circleci.com/gh/Ishiko-cpp/Platform)
@@ -80,6 +84,7 @@ The following build order can be used to build the projects from scratch:
 1. Text (without the test code)
 1. Process (without the test code)
 1. FileSystem (without the test code)
+1. Hash (without the test code)
 1. Diff (without the test code)
 1. TestFramework
 1. Platform (now with the test code)
@@ -88,6 +93,7 @@ The following build order can be used to build the projects from scratch:
 1. Text (now with the test code)
 1. Process (now with the test code)
 1. FileSystem (now with the test code)
+1. Hash (now with the test code)
 1. Diff (now with the test code)
 1. Collections
 1. Crypto
