@@ -64,6 +64,10 @@ This repository contains the project documentation.
 
   [![Ishiko-cpp](https://circleci.com/gh/Ishiko-cpp/UUIDs.svg?style=shield)](https://circleci.com/gh/Ishiko-cpp/UUIDs)
 
+- [XML](https://github.com/Ishiko-cpp/XML): XML utilities.
+
+  [![Ishiko-cpp](https://circleci.com/gh/Ishiko-cpp/XML.svg?style=shield)](https://circleci.com/gh/Ishiko-cpp/XML)
+
 ### Third party dependencies/forks
 
 - [Botan](https://github.com/Ishiko-cpp/botan): Botan is a C++ cryptography library.
@@ -84,6 +88,7 @@ The following build order can be used to build the projects from scratch:
 1. Text (without the test code)
 1. Process (without the test code)
 1. FileSystem (without the test code)
+1. XML (without the test code)
 1. Hash (without the test code)
 1. Diff (without the test code)
 1. TestFramework
@@ -93,6 +98,7 @@ The following build order can be used to build the projects from scratch:
 1. Text (now with the test code)
 1. Process (now with the test code)
 1. FileSystem (now with the test code)
+1. XML (now with the test code)
 1. Hash (now with the test code)
 1. Diff (now with the test code)
 1. Collections
