@@ -36,9 +36,9 @@ This repository contains the project documentation.
 
   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/platform.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/platform)
 
-- [Process](https://github.com/ishiko-cpp/Process): Code to work with processes and environment variables.
+- [Process](https://github.com/ishiko-cpp/process): Code to work with processes and environment variables.
 
-  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/Process.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/Process)
+  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/process.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/process)
 
 - [Tasks](https://github.com/ishiko-cpp/Tasks): A framework to schedule and execute tasks.
 
@@ -52,9 +52,9 @@ This repository contains the project documentation.
 
   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/TestFramework.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/TestFramework)
 
-- [Text](https://github.com/ishiko-cpp/Text): Utilities to work with text data.
+- [Text](https://github.com/ishiko-cpp/text): Utilities to work with text data.
 
-  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/Text.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/Text)
+  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/text.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/text)
 
 - [Types](https://github.com/ishiko-cpp/Types): Fundamental types.
 
