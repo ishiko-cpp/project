@@ -48,9 +48,9 @@ This repository contains the project documentation.
 
   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/Terminal.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/Terminal)
 
-- [TestFramework](https://github.com/ishiko-cpp/TestFramework): A C++ test framework.
+- [Test](https://github.com/ishiko-cpp/test): A C++ test framework.
 
-  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/TestFramework.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/TestFramework)
+  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/test.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/test)
 
 - [Text](https://github.com/ishiko-cpp/text): Utilities to work with text data.
 
