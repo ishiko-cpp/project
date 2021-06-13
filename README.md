@@ -66,7 +66,7 @@ This repository contains the project documentation.
 
 - [XML](https://github.com/ishiko-cpp/xml): XML utilities.
 
-  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/XML.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/XML)
+  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/xml.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/xml)
 
 ### Third party dependencies/forks
 
