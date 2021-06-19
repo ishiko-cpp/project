@@ -24,9 +24,9 @@ This repository contains the project documentation.
 
   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/errors.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/errors)
 
-- [FileSystem](https://github.com/ishiko-cpp/FileSystem): Utilities to work with the file system.
+- [FileSystem](https://github.com/ishiko-cpp/filesystem): Utilities to work with the file system.
 
-  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/FileSystem.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/FileSystem)
+  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/filesystem.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/filesystem)
 
 - [Hash](https://github.com/ishiko-cpp/Hash): A library to calculate hashes.
 
