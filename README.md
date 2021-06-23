@@ -12,6 +12,10 @@ This repository contains the project documentation.
 
   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/Collections.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/Collections)
 
+- [Config](https://github.com/ishiko-cpp/config): Configuration classes.
+
+  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/config.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/config)
+
 - [Crypto](https://github.com/ishiko-cpp/Crypto): Cryptographic functions.
 
   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/Crypto.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/Crypto)
@@ -48,9 +52,9 @@ This repository contains the project documentation.
 
   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/Terminal.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/Terminal)
 
-- [Test](https://github.com/ishiko-cpp/test): A C++ test framework.
+- [Tests](https://github.com/ishiko-cpp/tests): A C++ test framework.
 
-  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/test.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/test)
+  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/tests.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/tests)
 
 - [Text](https://github.com/ishiko-cpp/text): Utilities to work with text data.
 
@@ -91,7 +95,7 @@ The following build order can be used to build the projects from scratch:
 1. XML (without the test code)
 1. Hash (without the test code)
 1. Diff (without the test code)
-1. TestFramework
+1. Tests
 1. Platform (now with the test code)
 1. Errors (now with the test code)
 1. Types (now with the test code)
