@@ -20,9 +20,9 @@ This repository contains the project documentation.
 
   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/Crypto.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/Crypto)
 
-- [Diff](https://github.com/ishiko-cpp/Diff): Diff utilities.
+- [Diff](https://github.com/ishiko-cpp/diff): Diff utilities.
 
-  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/Diff.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/Diff)
+  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/diff.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/diff)
 
 - [Errors](https://github.com/ishiko-cpp/errors): Code to handle and report errors.
 
@@ -60,9 +60,9 @@ This repository contains the project documentation.
 
   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/text.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/text)
 
-- [Types](https://github.com/ishiko-cpp/Types): Fundamental types.
+- [Types](https://github.com/ishiko-cpp/types): Fundamental types.
 
-  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/Types.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/Types)
+  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/types.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/types)
 
 - [UUIDs](https://github.com/ishiko-cpp/UUIDs): UUID types.
 
