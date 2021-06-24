@@ -8,9 +8,9 @@ This repository contains the project documentation.
 
 ### Ishiko/C++ original projects
 
-- [Collections](https://github.com/ishiko-cpp/Collections): Container classes.
+- [Collections](https://github.com/ishiko-cpp/collections): Container classes.
 
-  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/Collections.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/Collections)
+  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/collections.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/collections)
 
 - [Config](https://github.com/ishiko-cpp/config): Configuration classes.
 
