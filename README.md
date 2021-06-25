@@ -89,6 +89,7 @@ The following build order can be used to build the projects from scratch:
 1. Platform (without the test code)
 1. Errors (without the test code)
 1. Types (without the test code)
+1. Collections (without the test code)
 1. Text (without the test code)
 1. Process (without the test code)
 1. FileSystem (without the test code)
@@ -99,13 +100,13 @@ The following build order can be used to build the projects from scratch:
 1. Platform (now with the test code)
 1. Errors (now with the test code)
 1. Types (now with the test code)
+1. Collections (now with the test code)
 1. Text (now with the test code)
 1. Process (now with the test code)
 1. FileSystem (now with the test code)
 1. XML (now with the test code)
 1. Hash (now with the test code)
 1. Diff (now with the test code)
-1. Collections
 1. Crypto
 1. Terminal
 1. Tasks
