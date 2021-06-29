@@ -44,13 +44,13 @@ This repository contains the project documentation.
 
   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/process.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/process)
 
-- [Tasks](https://github.com/ishiko-cpp/Tasks): A framework to schedule and execute tasks.
+- [Tasks](https://github.com/ishiko-cpp/tasks): A framework to schedule and execute tasks.
 
-  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/Tasks.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/Tasks)
+  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/tasks.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/tasks)
 
-- [Terminal](https://github.com/ishiko-cpp/Terminal): Utilities to work with terminal input and output.
+- [Terminal](https://github.com/ishiko-cpp/terminal): Utilities to work with terminal input and output.
 
-  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/Terminal.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/Terminal)
+  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/terminal.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/terminal)
 
 - [Tests](https://github.com/ishiko-cpp/tests): A C++ test framework.
 
