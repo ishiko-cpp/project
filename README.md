@@ -32,9 +32,9 @@ This repository contains the project documentation.
 
   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/filesystem.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/filesystem)
 
-- [Hash](https://github.com/ishiko-cpp/Hash): A library to calculate hashes.
+- [Hash](https://github.com/ishiko-cpp/hash): A library to calculate hashes.
 
-  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/Hash.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/Hash)
+  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/hash.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/hash)
 
 - [Platform](https://github.com/ishiko-cpp/platform): Code to handle differences between operating systems.
 
