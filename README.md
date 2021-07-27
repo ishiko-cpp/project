@@ -36,6 +36,10 @@ This repository contains the project documentation.
 
   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/hash.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/hash)
 
+- [Networking](https://github.com/ishiko-cpp/networking): Networking.
+
+  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/networking.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/networking)
+
 - [Platform](https://github.com/ishiko-cpp/platform): Code to handle differences between operating systems.
 
   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/platform.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/platform)
@@ -111,6 +115,7 @@ The following build order can be used to build the projects from scratch:
 1. Terminal
 1. Tasks
 1. UUIDs
+1. Networking
 
 # Support
 
