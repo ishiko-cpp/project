@@ -8,63 +8,63 @@ This repository contains the project documentation.
 
 ### Ishiko/C++ original projects
 
-- [Collections](https://github.com/ishiko-cpp/collections): Container classes.
+- [Collections](https://github.com/ishiko-cpp/collections): container classes.
 
   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/collections.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/collections)
 
-- [Config](https://github.com/ishiko-cpp/config): Configuration classes.
+- [Config](https://github.com/ishiko-cpp/config): configuration classes.
 
   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/config.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/config)
 
-- [Crypto](https://github.com/ishiko-cpp/Crypto): Cryptographic functions.
+- [Crypto](https://github.com/ishiko-cpp/Crypto): cryptographic functions.
 
   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/Crypto.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/Crypto)
 
-- [Diff](https://github.com/ishiko-cpp/diff): Diff utilities.
+- [Diff](https://github.com/ishiko-cpp/diff): diff utilities.
 
   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/diff.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/diff)
 
-- [Errors](https://github.com/ishiko-cpp/errors): Code to handle and report errors.
+- [Errors](https://github.com/ishiko-cpp/errors): code to handle and report errors.
 
   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/errors.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/errors)
 
-- [FileSystem](https://github.com/ishiko-cpp/filesystem): Utilities to work with the file system.
+- [FileSystem](https://github.com/ishiko-cpp/filesystem): utilities to work with the file system.
 
   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/filesystem.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/filesystem)
 
-- [Hash](https://github.com/ishiko-cpp/hash): A library to calculate hashes.
+- [Hash](https://github.com/ishiko-cpp/hash): a library to calculate hashes.
 
   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/hash.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/hash)
 
-- [Networking](https://github.com/ishiko-cpp/networking): Networking.
+- [Networking](https://github.com/ishiko-cpp/networking): networking.
 
   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/networking.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/networking)
 
-- [Platform](https://github.com/ishiko-cpp/platform): Code to handle differences between operating systems.
+- [Platform](https://github.com/ishiko-cpp/platform): code to handle differences between operating systems.
 
   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/platform.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/platform)
 
-- [Process](https://github.com/ishiko-cpp/process): Code to work with processes and environment variables.
+- [Process](https://github.com/ishiko-cpp/process): code to work with processes and environment variables.
 
   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/process.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/process)
 
-- [Tasks](https://github.com/ishiko-cpp/tasks): A framework to schedule and execute tasks.
+- [Tasks](https://github.com/ishiko-cpp/tasks): a framework to schedule and execute tasks.
 
   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/tasks.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/tasks)
 
-- [Terminal](https://github.com/ishiko-cpp/terminal): Utilities to work with terminal input and output.
+- [Terminal](https://github.com/ishiko-cpp/terminal): utilities to work with terminal input and output.
 
   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/terminal.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/terminal)
 
-- [Tests](https://github.com/ishiko-cpp/tests): A C++ test framework.
+- [Tests](https://github.com/ishiko-cpp/tests): a C++ test framework.
 
   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/tests.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/tests)
 
-- [Text](https://github.com/ishiko-cpp/text): Utilities to work with text data.
+- [Text](https://github.com/ishiko-cpp/text): utilities to work with text data.
 
   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/text.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/text)
 
-- [Types](https://github.com/ishiko-cpp/types): Fundamental types.
+- [Types](https://github.com/ishiko-cpp/types): fundamental types.
 
   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/types.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/types)
 
