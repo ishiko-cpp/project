@@ -40,45 +40,45 @@ This repository contains the project documentation.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/hash.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/hash)
 
-- [Networking](https://github.com/ishiko-cpp/networking): networking.
+1. [Networking](https://github.com/ishiko-cpp/networking): networking.
 
-  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/networking.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/networking)
+   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/networking.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/networking)
 
-- [Platform](https://github.com/ishiko-cpp/platform): code to handle differences between operating systems.
+1. [Platform](https://github.com/ishiko-cpp/platform): code to handle differences between operating systems.
 
-  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/platform.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/platform)
+   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/platform.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/platform)
 
-- [Process](https://github.com/ishiko-cpp/process): code to work with processes and environment variables.
+1. [Process](https://github.com/ishiko-cpp/process): code to work with processes and environment variables.
 
-  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/process.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/process)
+   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/process.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/process)
 
-- [Tasks](https://github.com/ishiko-cpp/tasks): a framework to schedule and execute tasks.
+1. [Tasks](https://github.com/ishiko-cpp/tasks): a framework to schedule and execute tasks.
 
-  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/tasks.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/tasks)
+   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/tasks.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/tasks)
 
-- [Terminal](https://github.com/ishiko-cpp/terminal): utilities to work with terminal input and output.
+1. [Terminal](https://github.com/ishiko-cpp/terminal): utilities to work with terminal input and output.
 
-  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/terminal.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/terminal)
+   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/terminal.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/terminal)
 
-- [Tests](https://github.com/ishiko-cpp/tests): a C++ test framework.
+1. [Tests](https://github.com/ishiko-cpp/tests): a C++ test framework.
 
-  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/tests.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/tests)
+   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/tests.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/tests)
 
-- [Text](https://github.com/ishiko-cpp/text): utilities to work with text data.
+1. [Text](https://github.com/ishiko-cpp/text): utilities to work with text data.
 
-  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/text.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/text)
+   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/text.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/text)
 
-- [Types](https://github.com/ishiko-cpp/types): fundamental types.
+1. [Types](https://github.com/ishiko-cpp/types): fundamental types.
 
-  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/types.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/types)
+   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/types.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/types)
 
-- [UUIDs](https://github.com/ishiko-cpp/uuids): UUID types.
+1. [UUIDs](https://github.com/ishiko-cpp/uuids): UUID types.
 
   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/uuids.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/uuids)
+ 
+1. [XML](https://github.com/ishiko-cpp/xml): XML utilities.
 
-- [XML](https://github.com/ishiko-cpp/xml): XML utilities.
-
-  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/xml.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/xml)
+   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/xml.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/xml)
 
 ### Third party dependencies/forks
 
