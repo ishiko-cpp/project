@@ -74,7 +74,7 @@ This repository contains the project documentation.
 
 1. [UUIDs](https://github.com/ishiko-cpp/uuids): UUID types.
 
-  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/uuids.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/uuids)
+   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/uuids.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/uuids)
  
 1. [XML](https://github.com/ishiko-cpp/xml): XML utilities.
 
