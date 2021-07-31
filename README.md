@@ -20,6 +20,10 @@ This repository contains the project documentation.
 
   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/Crypto.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/Crypto)
 
+- [CSV](https://github.com/ishiko-cpp/csv): CSV utilities.
+
+  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/csv.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/csv)
+
 - [Diff](https://github.com/ishiko-cpp/diff): diff utilities.
 
   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/diff.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/diff)
