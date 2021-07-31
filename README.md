@@ -14,31 +14,31 @@ This repository contains the project documentation.
 
 1. [Config](https://github.com/ishiko-cpp/config): configuration classes.
 
-  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/config.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/config)
+   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/config.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/config)
 
-- [Crypto](https://github.com/ishiko-cpp/Crypto): cryptographic functions.
+1. [Crypto](https://github.com/ishiko-cpp/Crypto): cryptographic functions.
 
-  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/Crypto.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/Crypto)
+   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/Crypto.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/Crypto)
 
-- [CSV](https://github.com/ishiko-cpp/csv): CSV utilities.
+1. [CSV](https://github.com/ishiko-cpp/csv): CSV utilities.
 
-  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/csv.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/csv)
+   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/csv.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/csv)
 
-- [Diff](https://github.com/ishiko-cpp/diff): diff utilities.
+1. [Diff](https://github.com/ishiko-cpp/diff): diff utilities.
 
-  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/diff.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/diff)
+   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/diff.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/diff)
 
-- [Errors](https://github.com/ishiko-cpp/errors): code to handle and report errors.
+1. [Errors](https://github.com/ishiko-cpp/errors): code to handle and report errors.
 
-  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/errors.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/errors)
+   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/errors.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/errors)
 
-- [FileSystem](https://github.com/ishiko-cpp/filesystem): utilities to work with the file system.
+1. [FileSystem](https://github.com/ishiko-cpp/filesystem): utilities to work with the file system.
 
-  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/filesystem.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/filesystem)
+   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/filesystem.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/filesystem)
 
-- [Hash](https://github.com/ishiko-cpp/hash): a library to calculate hashes.
+1. [Hash](https://github.com/ishiko-cpp/hash): a library to calculate hashes.
 
-  [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/hash.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/hash)
+   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/hash.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/hash)
 
 - [Networking](https://github.com/ishiko-cpp/networking): networking.
 
