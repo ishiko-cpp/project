@@ -120,6 +120,7 @@ The following build order can be used to build the projects from scratch:
 1. Tasks
 1. UUIDs
 1. Networking
+1. CSV
 
 # Support
 
