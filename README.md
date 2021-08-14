@@ -105,7 +105,7 @@ The following build order can be used to build the projects from scratch:
 1. Hash (without the test code)
 1. Diff (without the test code)
 1. Tests
-1. Platform (now with the test code)
+1. BasePlatform (now with the test code)
 1. Errors (now with the test code)
 1. Types (now with the test code)
 1. Collections (now with the test code)
