@@ -8,6 +8,10 @@ This repository contains the project documentation.
 
 ### Ishiko/C++ original projects
 
+1. [BasePlatform](https://github.com/ishiko-cpp/base-platform): code to handle differences between operating systems.
+
+   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/base-platform.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/base-platform)
+
 1. [Collections](https://github.com/ishiko-cpp/collections): container classes.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/collections.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/collections)
@@ -43,10 +47,6 @@ This repository contains the project documentation.
 1. [Networking](https://github.com/ishiko-cpp/networking): networking.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/networking.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/networking)
-
-1. [Platform](https://github.com/ishiko-cpp/platform): code to handle differences between operating systems.
-
-   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/platform.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/platform)
 
 1. [Process](https://github.com/ishiko-cpp/process): code to work with processes and environment variables.
 
