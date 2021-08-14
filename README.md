@@ -52,10 +52,6 @@ This repository contains the project documentation.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/process.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/process)
 
-1. [Tasks](https://github.com/ishiko-cpp/tasks): a framework to schedule and execute tasks.
-
-   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/tasks.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/tasks)
-
 1. [Terminal](https://github.com/ishiko-cpp/terminal): utilities to work with terminal input and output.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/terminal.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/terminal)
@@ -71,6 +67,10 @@ This repository contains the project documentation.
 1. [Types](https://github.com/ishiko-cpp/types): fundamental types.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/types.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/types)
+
+1. [UserTasks](https://github.com/ishiko-cpp/user-tasks): a framework to schedule and execute tasks.
+
+   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/user-tasks.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/user-tasks)
 
 1. [UUIDs](https://github.com/ishiko-cpp/uuids): UUID types.
 
