@@ -94,7 +94,7 @@ The following build order can be used to build the projects from scratch:
 
 1. Botan
 1. pugixml
-1. Platform (without the test code)
+1. BasePlatform (without the test code)
 1. Errors (without the test code)
 1. Types (without the test code)
 1. Collections (without the test code)
