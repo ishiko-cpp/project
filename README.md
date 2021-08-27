@@ -104,6 +104,7 @@ The following build order can be used to build the projects from scratch:
 1. pugixml
 1. BasePlatform (without the test code)
 1. Errors (without the test code)
+1. Logging (without the test code)
 1. Types (without the test code)
 1. Collections (without the test code)
 1. Text (without the test code)
@@ -115,6 +116,7 @@ The following build order can be used to build the projects from scratch:
 1. Tests
 1. BasePlatform (now with the test code)
 1. Errors (now with the test code)
+1. Logging (now with the test code)
 1. Types (now with the test code)
 1. Collections (now with the test code)
 1. Text (now with the test code)
