@@ -48,7 +48,7 @@ This repository contains the project documentation.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/logging.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/logging)
 
-1. [Metrics](https://github.com/ishiko-cpp/logging): utilities to collect metrics.
+1. [Metrics](https://github.com/ishiko-cpp/metrics): utilities to collect metrics.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/metrics.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/metrics)
 
