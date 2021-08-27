@@ -44,7 +44,7 @@ This repository contains the project documentation.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/hash.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/hash)
 
-1. [Loggin](https://github.com/ishiko-cpp/logging): logging utilities.
+1. [Logging](https://github.com/ishiko-cpp/logging): logging utilities.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/logging.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/logging)
 
