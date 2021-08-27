@@ -48,6 +48,10 @@ This repository contains the project documentation.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/logging.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/logging)
 
+1. [Metrics](https://github.com/ishiko-cpp/logging): utilities to collect metrics.
+
+   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/metrics.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/metrics)
+
 1. [Networking](https://github.com/ishiko-cpp/networking): networking.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/networking.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/networking)
