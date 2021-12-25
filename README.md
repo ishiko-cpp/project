@@ -72,6 +72,10 @@ This repository contains the project documentation.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/text.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/text)
 
+1. [Time](https://github.com/ishiko-cpp/time): basic classes to represent time.
+
+   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/time.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/time)
+
 1. [Types](https://github.com/ishiko-cpp/types): fundamental types.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/types.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/types)
@@ -108,6 +112,7 @@ The following build order can be used to build the projects from scratch:
 1. Types (without the test code)
 1. Collections (without the test code)
 1. Text (without the test code)
+1. Time (without the test code)
 1. Process (without the test code)
 1. FileSystem (without the test code)
 1. XML (without the test code)
@@ -120,6 +125,7 @@ The following build order can be used to build the projects from scratch:
 1. Types (now with the test code)
 1. Collections (now with the test code)
 1. Text (now with the test code)
+1. Time (now with the test code)
 1. Process (now with the test code)
 1. FileSystem (now with the test code)
 1. XML (now with the test code)
