@@ -20,9 +20,9 @@ This repository contains the project documentation.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/config.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/config)
 
-1. [Crypto](https://github.com/ishiko-cpp/Crypto): cryptographic functions.
+1. [Crypto](https://github.com/ishiko-cpp/crypto): cryptographic functions.
 
-   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/Crypto.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/Crypto)
+   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/crypto.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/crypto)
 
 1. [CSV](https://github.com/ishiko-cpp/csv): CSV utilities.
 
@@ -144,7 +144,7 @@ None.
 
 ## License
 
-Copyright (c) 2005-2021 Xavier Leclercq
+Copyright (c) 2005-2022 Xavier Leclercq
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the "Software"),
