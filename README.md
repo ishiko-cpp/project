@@ -44,6 +44,10 @@ This repository contains the project documentation.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/hash.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/hash)
 
+1. [HTTP](https://github.com/ishiko-cpp/http): a library that provides HTTP functionality.
+
+   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/http.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/http)
+
 1. [Logging](https://github.com/ishiko-cpp/logging): logging utilities.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/logging.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/logging)
@@ -141,6 +145,7 @@ The following build order can be used to build the projects from scratch:
 1. Tasks
 1. UUIDs
 1. Networking
+1. HTTP
 1. CSV
 
 # Support
