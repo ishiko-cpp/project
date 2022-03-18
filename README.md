@@ -68,9 +68,9 @@ This repository contains the project documentation.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/terminal.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/terminal)
 
-1. [Tests](https://github.com/ishiko-cpp/tests): a C++ test framework.
+1. [TestFramework](https://github.com/ishiko-cpp/test-framework): a C++ test framework.
 
-   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/tests.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/tests)
+   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/test-framework.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/test-framework)
 
 1. [Text](https://github.com/ishiko-cpp/text): utilities to work with text data.
 
@@ -129,7 +129,7 @@ The following build order can be used to build the projects from scratch:
 1. XML (without the test code)
 1. Hash (without the test code)
 1. Diff (without the test code)
-1. Tests/Core
+1. TestFramework/Core
 1. BasePlatform (now with the test code)
 1. Errors (now with the test code)
 1. Logging (now with the test code)
@@ -142,10 +142,10 @@ The following build order can be used to build the projects from scratch:
 1. XML (now with the test code)
 1. Hash (now with the test code)
 1. Diff (now with the test code)
-1. Tests
+1. TestFramework
 1. Crypto
 1. Terminal
-1. Tasks
+1. UserTasks
 1. UUIDs
 1. Networking
 1. HTTP
