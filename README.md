@@ -16,9 +16,9 @@ This repository contains the project documentation.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/collections.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/collections)
 
-1. [Config](https://github.com/ishiko-cpp/config): configuration classes.
+1. [Configuration](https://github.com/ishiko-cpp/configuration): configuration classes.
 
-   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/config.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/config)
+   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/configuration.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/configuration)
 
 1. [Crypto](https://github.com/ishiko-cpp/crypto): cryptographic functions.
 
