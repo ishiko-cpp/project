@@ -100,6 +100,10 @@ This repository contains the project documentation.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/xml.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/xml)
 
+1. [YAML](https://github.com/ishiko-cpp/yaml): YAML utilities.
+
+   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/yaml.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/yaml)
+
 ### Third party dependencies/forks
 
 - [Botan](https://github.com/ishiko-cpp/botan): Botan is a C++ cryptography library.
@@ -132,6 +136,7 @@ The following build order can be used to build the projects from scratch:
 1. FileSystem (without the test code)
 1. XML (without the test code)
 1. JSON (without the test code)
+1. YAML (without the test code)
 1. Hash (without the test code)
 1. Diff (without the test code)
 1. Configuration (without the test code)
@@ -147,6 +152,7 @@ The following build order can be used to build the projects from scratch:
 1. FileSystem (now with the test code)
 1. XML (now with the test code)
 1. JSON (now with the test code)
+1. YAML (now with the test code)
 1. Hash (now with the test code)
 1. Diff (now with the test code)
 1. Configuration (now with the test code)
