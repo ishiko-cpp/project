@@ -109,7 +109,6 @@ This repository contains the project documentation.
 - [Botan](https://github.com/ishiko-cpp/botan): Botan is a C++ cryptography library.
 - [fmt](https://github.com/ishiko-cpp/fmtlib_fmt): {fmt} is an open-source formatting library providing a fast and safe
   alternative to C stdio and C++ iostreams.
-- [G3log](https://github.com/ishiko-cpp/g3log): G3log is an asynchronous, "crash safe", logger.
 - [mstch](https://github.com/ishiko-cpp/no1msd_mstch): mstch is a complete implementation of {{mustache}} templates
   using modern C++.
 - [pugixml](https://github.com/ishiko-cpp/pugixml): Light-weight, simple and fast XML parser for C++ with XPath support
@@ -121,7 +120,6 @@ This repository contains the project documentation.
 The following build order can be used to build the projects from scratch:
 
 1. fmt
-1. G3log
 1. Botan
 1. pugixml
 1. mstch
@@ -129,6 +127,7 @@ The following build order can be used to build the projects from scratch:
 1. Errors (without the test code)
 1. Logging (without the test code)
 1. Types (without the test code)
+1. Hash (without the test code)
 1. Collections (without the test code)
 1. Text (without the test code)
 1. Time (without the test code)
@@ -137,7 +136,6 @@ The following build order can be used to build the projects from scratch:
 1. XML (without the test code)
 1. JSON (without the test code)
 1. YAML (without the test code)
-1. Hash (without the test code)
 1. Diff (without the test code)
 1. Configuration (without the test code)
 1. TestFramework/Core
@@ -145,6 +143,7 @@ The following build order can be used to build the projects from scratch:
 1. Errors (now with the test code)
 1. Logging (now with the test code)
 1. Types (now with the test code)
+1. Hash (now with the test code)
 1. Collections (now with the test code)
 1. Text (now with the test code)
 1. Time (now with the test code)
@@ -153,7 +152,6 @@ The following build order can be used to build the projects from scratch:
 1. XML (now with the test code)
 1. JSON (now with the test code)
 1. YAML (now with the test code)
-1. Hash (now with the test code)
 1. Diff (now with the test code)
 1. Configuration (now with the test code)
 1. TestFramework
