@@ -4,6 +4,7 @@ Ishiko/C++ is a set of C++ libraries.
 
 This repository contains the project documentation.
 
+
 ## Contents
 
 ### Ishiko/C++ original projects
@@ -55,6 +56,10 @@ This repository contains the project documentation.
 1. [Logging](https://github.com/ishiko-cpp/logging): logging utilities.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/logging.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/logging)
+
+1. [Memory](https://github.com/ishiko-cpp/memory): Allocators and memory buffers.
+
+   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/memory.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/memory)
 
 1. [Metrics](https://github.com/ishiko-cpp/metrics): utilities to collect metrics.
 
@@ -113,9 +118,10 @@ This repository contains the project documentation.
   using modern C++.
 - [pugixml](https://github.com/ishiko-cpp/pugixml): Light-weight, simple and fast XML parser for C++ with XPath support
 
-# Usage
 
-## Building the projects from scratch
+## Usage
+
+### Building the projects from scratch
 
 The following build order can be used to build the projects from scratch:
 
@@ -125,6 +131,7 @@ The following build order can be used to build the projects from scratch:
 1. mstch
 1. BasePlatform (without the test code)
 1. Errors (without the test code)
+1. Memory (without the test code)
 1. Logging (without the test code)
 1. Types (without the test code)
 1. Hash (without the test code)
@@ -141,6 +148,7 @@ The following build order can be used to build the projects from scratch:
 1. TestFramework/Core
 1. BasePlatform (now with the test code)
 1. Errors (now with the test code)
+1. Memory (now with the test code)
 1. Logging (now with the test code)
 1. Types (now with the test code)
 1. Hash (now with the test code)
@@ -163,9 +171,11 @@ The following build order can be used to build the projects from scratch:
 1. HTTP
 1. CSV
 
-# Support
+
+## Support
 
 None.
+
 
 ## License
 
