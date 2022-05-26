@@ -19,7 +19,7 @@ This repository contains the project documentation.
 
 1. [Concurrency](https://github.com/ishiko-cpp/concurrency): Executors and thread pools.
 
-   [![CircleCI](https://circleci.com/gh/ishiko-cpp/concurrency/tree/main.svg?style=svg)](https://circleci.com/gh/ishiko-cpp/concurrency/tree/main)
+   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/concurrency/tree/main.svg?style=svg)](https://circleci.com/gh/ishiko-cpp/concurrency/tree/main)
 
 1. [Configuration](https://github.com/ishiko-cpp/configuration): configuration classes.
 
