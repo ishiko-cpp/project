@@ -17,6 +17,10 @@ This repository contains the project documentation.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/collections.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/collections)
 
+1. [Concurrency](https://github.com/ishiko-cpp/concurrency): Executors and thread pools.
+
+   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/concurrency.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/concurrency)
+
 1. [Configuration](https://github.com/ishiko-cpp/configuration): configuration classes.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/configuration.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/configuration)
@@ -138,6 +142,7 @@ The following build order can be used to build the projects from scratch:
 1. Collections (without the test code)
 1. Text (without the test code)
 1. Time (without the test code)
+1. Concurrency (without the test code)
 1. Process (without the test code)
 1. FileSystem (without the test code)
 1. XML (without the test code)
@@ -155,6 +160,7 @@ The following build order can be used to build the projects from scratch:
 1. Collections (now with the test code)
 1. Text (now with the test code)
 1. Time (now with the test code)
+1. Concurrency (now with the test code)
 1. Process (now with the test code)
 1. FileSystem (now with the test code)
 1. XML (now with the test code)
