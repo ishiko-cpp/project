@@ -53,6 +53,10 @@ This repository contains the project documentation.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/http.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/http)
 
+1. [IO](https://github.com/ishiko-cpp/io): I/O utilities.
+
+   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/io.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/io)
+
 1. [JSON](https://github.com/ishiko-cpp/json): JSON utilities.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/json.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/json)
@@ -144,6 +148,7 @@ The following build order can be used to build the projects from scratch:
 1. Time (without the test code)
 1. Concurrency (without the test code)
 1. Process (without the test code)
+1. IO (without the test code)
 1. FileSystem (without the test code)
 1. XML (without the test code)
 1. JSON (without the test code)
@@ -162,6 +167,7 @@ The following build order can be used to build the projects from scratch:
 1. Time (now with the test code)
 1. Concurrency (now with the test code)
 1. Process (now with the test code)
+1. IO (now with the test code)
 1. FileSystem (now with the test code)
 1. XML (now with the test code)
 1. JSON (now with the test code)
