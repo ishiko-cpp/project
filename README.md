@@ -117,7 +117,7 @@ This repository contains the project documentation.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/yaml.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/yaml)
 
-### Third party dependencies/forks
+### Third-party dependencies/forks
 
 - [Botan](https://github.com/ishiko-cpp/botan): Botan is a C++ cryptography library.
 - [fmt](https://github.com/ishiko-cpp/fmtlib_fmt): {fmt} is an open-source formatting library providing a fast and safe
@@ -127,16 +127,39 @@ This repository contains the project documentation.
 - [pugixml](https://github.com/ishiko-cpp/pugixml): Light-weight, simple and fast XML parser for C++ with XPath support
 
 
-## Usage
+## Installation
 
-### Building the projects from scratch
+### Third-party dependencies
 
-The following build order can be used to build the projects from scratch:
+First the third-party dependencies need to be installed. These are available in the
+[ishiko-third-party organization](https://github.com/ishiko-third-party). There are no dependencies between them so the
+build order doesn't matter but we define the following order for consistency.
 
 1. fmt
 1. Botan
 1. pugixml
 1. mstch
+
+### Installing Botan
+
+On Windows:
+
+```
+git checkout 2.19.1
+python ./configure.py --cc=msvc --os=windows --disable-shared-library --debug-mode
+```
+
+Then open a Visual Studio build shell and run:
+```
+nmake
+nmake check
+nmake install
+```
+
+### Installing the Ishiko/C++ libraries
+
+The following build order can be used to build the projects from scratch:
+
 1. BasePlatform (without the test code)
 1. Errors (without the test code)
 1. Memory (without the test code)
@@ -183,6 +206,7 @@ The following build order can be used to build the projects from scratch:
 1. HTTP
 1. CSV
 
+## Usage
 
 ## Support
 
