@@ -101,9 +101,9 @@ This repository contains the project documentation.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/types.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/types)
 
-1. [UserTasks](https://github.com/ishiko-cpp/user-tasks): a framework to schedule and execute tasks.
+1. [Workflows](https://github.com/ishiko-cpp/user-tasks): a framework to schedule and execute tasks.
 
-   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/user-tasks.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/user-tasks)
+   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/workflows.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/workflows)
 
 1. [UUIDs](https://github.com/ishiko-cpp/uuids): UUID types.
 
@@ -200,7 +200,7 @@ The following build order can be used to build the projects from scratch:
 1. TestFramework
 1. Crypto
 1. Terminal
-1. UserTasks
+1. Workflows
 1. UUIDs
 1. Networking
 1. HTTP
