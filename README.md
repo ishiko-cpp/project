@@ -105,7 +105,7 @@ This repository contains the project documentation.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/uuids.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/uuids)
 
-1. [Workflows](https://github.com/ishiko-cpp/user-tasks): a framework to schedule and execute tasks.
+1. [Workflows](https://github.com/ishiko-cpp/workflows): a framework to schedule and execute tasks.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/workflows.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/workflows)
  
