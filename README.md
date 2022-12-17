@@ -101,13 +101,13 @@ This repository contains the project documentation.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/types.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/types)
 
-1. [Workflows](https://github.com/ishiko-cpp/user-tasks): a framework to schedule and execute tasks.
-
-   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/workflows.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/workflows)
-
 1. [UUIDs](https://github.com/ishiko-cpp/uuids): UUID types.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/uuids.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/uuids)
+
+1. [Workflows](https://github.com/ishiko-cpp/user-tasks): a framework to schedule and execute tasks.
+
+   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/workflows.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/workflows)
  
 1. [XML](https://github.com/ishiko-cpp/xml): XML utilities.
 
