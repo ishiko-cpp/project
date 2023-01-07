@@ -77,6 +77,10 @@ This repository contains the project documentation.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/networking.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/networking)
 
+1. [PDF](https://github.com/ishiko-cpp/pdf): code to work with PDF documents.
+
+   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/pdf.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/pdf)
+
 1. [Process](https://github.com/ishiko-cpp/process): code to work with processes and environment variables.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/process.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/process)
@@ -205,6 +209,7 @@ The following build order can be used to build the projects from scratch:
 1. Networking
 1. HTTP
 1. CSV
+1. PDF
 
 ## Usage
 
@@ -215,7 +220,7 @@ None.
 
 ## License
 
-Copyright (c) 2005-2022 Xavier Leclercq
+Copyright (c) 2005-2023 Xavier Leclercq
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the "Software"),
