@@ -85,6 +85,10 @@ This repository contains the project documentation.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/process.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/process)
 
+1. [REST](https://github.com/ishiko-cpp/rest): REST utilities.
+
+   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/rest.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/rest)
+
 1. [Terminal](https://github.com/ishiko-cpp/terminal): utilities to work with terminal input and output.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/terminal.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/terminal)
@@ -208,6 +212,7 @@ The following build order can be used to build the projects from scratch:
 1. UUIDs
 1. Networking
 1. HTTP
+1. REST
 1. CSV
 1. PDF
 
