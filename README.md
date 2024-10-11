@@ -89,6 +89,10 @@ This repository contains the project documentation.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/rest.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/rest)
 
+1. [Synchronization](https://github.com/ishiko-cpp/synchronization): synchronization mechanisms.
+
+   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/synchronization.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/synchronization)
+
 1. [Terminal](https://github.com/ishiko-cpp/terminal): utilities to work with terminal input and output.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/terminal.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/terminal)
@@ -174,6 +178,7 @@ The following build order can be used to build the projects from scratch:
 1. Logging (without the test code)
 1. Types (without the test code)
 1. Hash (without the test code)
+1. Synchronization (without the test code)
 1. Collections (without the test code)
 1. Text (without the test code)
 1. Time (without the test code)
@@ -193,6 +198,7 @@ The following build order can be used to build the projects from scratch:
 1. Logging (now with the test code)
 1. Types (now with the test code)
 1. Hash (now with the test code)
+1. Synchronization (now with the test code)
 1. Collections (now with the test code)
 1. Text (now with the test code)
 1. Time (now with the test code)
