@@ -9,7 +9,7 @@ This repository contains the project documentation.
 
 ### Ishiko/C++ original projects
 
-1. [BasePlatform](https://github.com/ishiko-cpp/base-platform): code to handle differences between operating systems.
+1. [Base Platform](https://github.com/ishiko-cpp/base-platform): code to handle differences between operating systems.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/base-platform.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/base-platform)
 
@@ -32,6 +32,10 @@ This repository contains the project documentation.
 1. [CSV](https://github.com/ishiko-cpp/csv): CSV utilities.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/csv.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/csv)
+
+1. [Data Structures](https://github.com/ishiko-cpp/data-structures): data structures.
+
+   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/data-structures.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/data-structures)
 
 1. [Diff](https://github.com/ishiko-cpp/diff): diff utilities.
 
