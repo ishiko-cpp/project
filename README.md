@@ -9,7 +9,7 @@ This repository contains the project documentation.
 
 ### Ishiko/C++ original projects
 
-1. [Base Platform](https://github.com/ishiko-cpp/base-platform): code to handle differences between operating systems.
+1. [BasePlatform](https://github.com/ishiko-cpp/base-platform): code to handle differences between operating systems.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/base-platform.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/base-platform)
 
@@ -33,7 +33,7 @@ This repository contains the project documentation.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/csv.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/csv)
 
-1. [Data Structures](https://github.com/ishiko-cpp/data-structures): data structures.
+1. [DataStructures](https://github.com/ishiko-cpp/data-structures): data structures.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/data-structures.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/data-structures)
 
@@ -183,6 +183,7 @@ The following build order can be used to build the projects from scratch:
 1. Types (without the test code)
 1. Hash (without the test code)
 1. Synchronization (without the test code)
+1. DataStructures (without the test code)
 1. Collections (without the test code)
 1. Text (without the test code)
 1. Time (without the test code)
@@ -203,6 +204,7 @@ The following build order can be used to build the projects from scratch:
 1. Types (now with the test code)
 1. Hash (now with the test code)
 1. Synchronization (now with the test code)
+1. DataStructures (now with the test code)
 1. Collections (now with the test code)
 1. Text (now with the test code)
 1. Time (now with the test code)
