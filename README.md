@@ -152,6 +152,21 @@ build order doesn't matter but we define the following order for consistency.
 1. pugixml
 1. mstch
 
+### Installing fmt
+
+```
+mkdir build
+cd build
+cmake -DCMAKE_INSTALL_PREFIX=.. ..
+cmake --build . --config=Debug
+cmake --build . --config=Release
+cmake --install . --config=Debug
+cmake --install . --config=Release
+```
+
+This installs the libraries in the lib folder at the root of the repo. The last step is to rename the files to adopt
+the Boost naming convention: fmt-d-x64.lib.
+
 ### Installing Botan
 
 On Windows:
