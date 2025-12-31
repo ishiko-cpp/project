@@ -148,13 +148,30 @@ This repository contains the project documentation.
 ### Third-party dependencies
 
 First the third-party dependencies need to be installed. These are available in the
-[ishiko-third-party organization](https://github.com/ishiko-third-party). There are no dependencies between them so the
-build order doesn't matter but we define the following order for consistency.
+[ishiko-third-party organization](https://github.com/ishiko-third-party) except for Boost which you get from the
+boost.org website. There are no dependencies between them so the build order doesn't matter but we define the following
+order for consistency.
 
+1. Boost
 1. fmt
 1. Botan
 1. pugixml
 1. mstch
+
+### Installing Boost
+
+Download the archive from the boost.org website. The instructions below are for Windows but they translate directly to
+bash.
+
+```
+C:\>set ISHIKO_WORKSPACE=<workspace_root_dir>
+C:\>set ISHIKO_INSTALL_DIR=%ISHIKO_WORKSPACE%\Installation
+C:\>set ISHIKO_PROJECTS_DIR=%ISHIKO_WORKSPACE%\Projects
+
+C:\>cd /d %ISHIKO_PROJECTS_DIR%\boostorg\boost_1_90_0
+C:\>.\bootstrap.bat
+C:\>.\b2 install --prefix=%ISHIKO_INSTALL_DIR%
+```
 
 ### Installing fmt
 
