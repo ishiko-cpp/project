@@ -193,8 +193,8 @@ the Boost naming convention: fmt-d-x64.lib.
 On Windows:
 
 ```
-git checkout 2.19.1
-python ./configure.py --cc=msvc --os=windows --disable-shared-library --debug-mode
+git checkout 2.19.5-fix
+python ./configure.py --cc=msvc --os=windows --disable-shared-library --debug-mode --prefix=..\..\..\..\..\Installation
 ```
 
 Then open a Visual Studio build shell and run:
@@ -269,6 +269,6 @@ None.
 
 ## License
 
-Copyright (c) 2005-2024 Xavier Leclercq\
+Copyright (c) 2005-2026 Xavier Leclercq\
 This work is licensed under the Boost Software License 1.0\
 See https://github.com/ishiko-cpp/project/blob/main/LICENSE.txt
