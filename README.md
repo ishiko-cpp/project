@@ -17,6 +17,10 @@ This repository contains the project documentation.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/collections.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/collections)
 
+1. [Color](https://github.com/ishiko-cpp/color): container classes.
+
+   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/color.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/color)
+
 1. [Concurrency](https://github.com/ishiko-cpp/concurrency): Executors and thread pools.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/concurrency.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/concurrency)
@@ -251,6 +255,7 @@ The following build order can be used to build the projects from scratch:
 1. Configuration (now with the test code)
 1. TestFramework
 1. Crypto
+1. Color
 1. Terminal
 1. Workflows
 1. UUIDs
