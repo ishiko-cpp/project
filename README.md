@@ -17,7 +17,7 @@ This repository contains the project documentation.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/collections.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/collections)
 
-1. [Color](https://github.com/ishiko-cpp/color): container classes.
+1. [Color](https://github.com/ishiko-cpp/color): color classes.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/color.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/color)
 
