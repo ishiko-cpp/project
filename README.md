@@ -73,6 +73,10 @@ This repository contains the project documentation.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/logging.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/logging)
 
+1. [Math](https://github.com/ishiko-cpp/math): Mathematical functions.
+
+   [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/math.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/math)
+
 1. [Memory](https://github.com/ishiko-cpp/memory): Allocators and memory buffers.
 
    [![ishiko-cpp](https://circleci.com/gh/ishiko-cpp/memory.svg?style=shield)](https://circleci.com/gh/ishiko-cpp/memory)
@@ -254,6 +258,7 @@ The following build order can be used to build the projects from scratch:
 1. Diff (now with the test code)
 1. Configuration (now with the test code)
 1. TestFramework
+1. Math
 1. Crypto
 1. Color
 1. Terminal
